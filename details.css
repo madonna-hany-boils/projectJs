@@ -1,0 +1,15 @@
+#productImg{
+    width: 600px;
+    height: 500px;
+    margin: 50px auto;
+    display: flex;
+    /* box-shadow: chocolate */
+    box-shadow: 2px 2px 5px ,-2px -2px 5px;
+    
+;
+}
+#prodcutDetails h3{
+    text-align: center;
+    color: darkslategray;
+    
+}

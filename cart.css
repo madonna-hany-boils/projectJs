@@ -1,0 +1,17 @@
+.divProduct img{
+width: 150px;
+}
+.divProduct {
+    border: 2px solid gray;
+    margin: 100px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px gray;
+    font-size: 25px;
+    flex-wrap: wrap;
+}.divProduct i{
+    color: red;
+}
